@@ -21,7 +21,7 @@ To write a Python program to check if a number is a Perfect number using the con
 ---
 
 ### PROGRAM
-```
+```python
 #Reg.No: 212222060013
 #Name: AKSHAIYAN S
 #Add your Code Here
