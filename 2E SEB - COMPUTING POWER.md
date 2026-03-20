@@ -21,8 +21,19 @@ To write a Python program to compute the power of a given number using an approp
 
 ### PROGRAM
 
-```
+```python
+Reg.No: 212222060013
+Nmae: AKSHAIYAN S
+
+def result(a, b, c):
+    mul =a*b*c
+    print("Multiply is",mul)   
+a=int(input())
+b=int(input())
+c=int(input())
 ```
 ### OUTPUT
+<img width="944" height="415" alt="image" src="https://github.com/user-attachments/assets/76713f80-9bf5-479a-af1a-4c5a94241f3d" />
 
 ### RESULT
+Thus a Python program to compute the multiplication of a given number using function was executed and implemented successfully.
